@@ -16,19 +16,21 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
 - Convert minutes to hours in Python.
 - Provide examples of Data Science tools and their uses.
   
-Some of popular languages that data science use are
--Python
--R
--SQL
--Julia
--SAS
+# Some of popular languages that data science use are
 
-Some of commonly used libraries used by data scientists include: 
-**NumPy**
-**pandas**
-**scikit-learn**
-**TensorFlow**
-**Matplotlib**
+1. Python
+2. R
+3. SQL
+4. Julia
+5. SAS
+
+# Some of commonly used libraries used by data scientists include:
+
+* NumPy
+* pandas
+* scikit-learn
+* TensorFlow
+* Matplotlib
 
 ## Data Science Tools
 
