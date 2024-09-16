@@ -43,8 +43,6 @@ RStudio
 
 Here are some common arithmetic expressions and their evaluations in Python:
 
-**Addition:**
-```python
 (3*4)+5
 # This is a simple arithmetic expression to mutiply then add integers.
 result = 10 - 4
@@ -62,12 +60,11 @@ print(result)  # Output: 2
 
 Below is a Python code example that converts 200 minutes to hours:
 
-```python
+
 200/60
 # This will convert 200 minutes to hours by dividing by 60
 
-
-## Author
+## AUTHOR
 
 Farid Rodriguez
 
