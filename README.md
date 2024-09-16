@@ -47,13 +47,18 @@ Here are some common arithmetic expressions and their evaluations in Python:
 # This is a simple arithmetic expression to mutiply then add integers.
 result = 10 - 4
 print(result)  # Output: 6
+
 result = 7 * 6
 print(result)  # Output: 42
+
 result = 20 / 4
 print(result)  # Output: 5.0
+
 result = 2 ** 3
 print(result)  # Output: 8
+
 result = 17 % 3
+
 print(result)  # Output: 2
 
 ### Converting Minutes to Hours
