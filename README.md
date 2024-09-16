@@ -17,11 +17,11 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
 - Provide examples of Data Science tools and their uses.
   
 Some of popular languages that data science use are
-**Python**
-**R**
-**SQL**
-**Julia**
-**SAS**
+-Python
+-R
+-SQL
+-Julia
+-SAS
 
 Some of commonly used libraries used by data scientists include: 
 **NumPy**
