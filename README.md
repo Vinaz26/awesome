@@ -63,10 +63,9 @@ print(result)  # Output: 2
 Below is a Python code example that converts 200 minutes to hours:
 
 ```python
+200/60
 # This will convert 200 minutes to hours by dividing by 60
-minutes = 200
-hours = minutes / 60
-print(hours)
+
 
 ## Author
 
