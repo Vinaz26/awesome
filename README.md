@@ -32,10 +32,10 @@ Some of commonly used libraries used by data scientists include:
 
 ## Data Science Tools
 
-|------------------------|
-| Jupyter Notebook       |
-| Apache Zeppelin        |
-| RStudio                |
+
+Jupyter Notebook   
+Apache Zeppelin    
+RStudio        
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
 
