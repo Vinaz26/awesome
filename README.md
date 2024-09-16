@@ -45,7 +45,7 @@ Here are some common arithmetic expressions and their evaluations in Python:
 
 **Addition:**
 ```python
-(3 * 4) + 5
+(3*4)+5
 # This is a simple arithmetic expression to mutiply then add integers.
 result = 10 - 4
 print(result)  # Output: 6
