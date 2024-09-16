@@ -1,0 +1,8 @@
+### Example of Multiplying and Adding Numbers
+
+Below is a Python code example that evaluates the expression `(3 * 4) + 5`:
+
+```python
+# This is a simple arithmetic expression to multiply then add integers
+result = (3 * 4) + 5
+print(result)
